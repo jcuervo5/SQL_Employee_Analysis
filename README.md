@@ -7,7 +7,7 @@ This is a research project on employees of a major corporation. The research inv
 ## Technologies
 
 * PostgreSQL
-* PGAdmin
+* PGAdmin 4
 * quickdatabasediagrams.com
 
 #### Data Modeling

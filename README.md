@@ -12,7 +12,7 @@ This is a research project on employees of a major corporation. The research inv
 
 #### Data Modeling
 
-Inspect the CSVs and sketch out an ERD of the tables. [http://www.quickdatabasediagrams.com](http://www.quickdatabasediagrams.com).
+Inspect the data and sketch out an ERD of the tables. [http://www.quickdatabasediagrams.com](http://www.quickdatabasediagrams.com).
 
 #### Data Engineering
 

@@ -40,4 +40,4 @@ With the database completed, the following analysis was completed using SQL quer
 
 7. In descending order, a list of the frequency count of employee last names, i.e., how many employees share each last name.
 
-
+![ERD Image](./SQL Files/EmployeeSQL - ERD Image.png)
